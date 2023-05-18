@@ -20,3 +20,5 @@ graficos a barras con sns.displot con distintos temas , de manera en conjunta/in
 grafico de lineas y uso debido del tiempo.
 
 regresion lineal basica + grafico.
+
+markdown.
